@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/muhid/Desktop/react/BanglaMeds/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/muhid/.gradle/caches/transforms-2/files-2.1/be83de380696f1dc9d97933266caeb1e/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
